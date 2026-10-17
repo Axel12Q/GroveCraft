@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "groups": {
+    "POPCYCLE_GROUP_BUSINESS": {"index": 1, "add": ["admiral", "stafford", "vincent"]},
+    "POPCYCLE_GROUP_CLUBBERS": {"index": 2, "add": ["hustler", "buccanee", "stallion"]},
+    "POPCYCLE_GROUP_FARMERS": {"index": 3, "add": ["bobcat", "sadler", "yosemite", "mesa", "landstal", "camper", "peren", "regina"]},
+    "POPCYCLE_GROUP_BEACHFOLK": {"index": 4, "add": ["camper", "rancher", "journey"]},
+    "POPCYCLE_GROUP_PARKFOLK": {"index": 5, "add": ["rancher", "camper", "peren"]},
+    "POPCYCLE_GROUP_DESERT_FOLK": {"index": 16, "add": ["mesa", "bobcat", "sadler", "yosemite", "camper", "journey", "landstal"]}
+  }
+}
