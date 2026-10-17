@@ -1,0 +1,27 @@
+{
+  "guest": {
+    "java": "25.0.1",
+    "fabric_loader": "0.19.5",
+    "fabric_api": "0.161.0+26.3",
+    "gradle": "9.7.1",
+    "loom_resolved": "1.18.4",
+    "minecraft": "26.3"
+  },
+  "minhook": {
+    "commit": "8af6b4acae5a9388fd742b56fa79ece89d96f823",
+    "url": "https://github.com/TsudaKageyu/minhook"
+  },
+  "libertycraft": {
+    "commit": "0fe0f2c9aae2ba974cb077e282b091a38f1ca48f",
+    "url": "https://github.com/mrborghini/libertycraft"
+  },
+  "compiler": {
+    "url": "https://github.com/mstorsjo/llvm-mingw/releases/download/20261006/llvm-mingw-20261006-ucrt-x86_64.zip",
+    "sha256": "317492C456AA27EE607A5919F1D2D38DCDC1112516A24D0BF4B00D078F52D17A"
+  },
+  "dragonff": {
+    "url": "https://github.com/Parik27/DragonFF",
+    "commit": "b3bd7aa65979faa125555c794fc483980080dbff",
+    "usage": "External local converter only, GPL-3.0"
+  }
+}
